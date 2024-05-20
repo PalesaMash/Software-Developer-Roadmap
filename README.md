@@ -1,5 +1,5 @@
 # Software-Developer-Roadmap
-Roadmap of becoming a self-taught software developer.
+Roadmap of becoming a self-taught software developer.👩🏾‍💻🚀
 
 Software Development is defined as the process of designing, creating, testing, and maintaining computer programs and applications.
 
@@ -19,29 +19,14 @@ Software Development is defined as the process of designing, creating, testing, 
       </tr>
       <tr>
         <td>Day One</td>
-        <td>
-          <ol>
-          <li>SheCodes Basics: Lesson One - Workshop Week One Overview</li> 
-          <li>Lesson Two: Your Instructor</li>
-          <li>Lesson Three: HTML Elements</li> 
-          <li>Lesson Four: HTML Attributes</li> 
-          <li>Lesson Five: Developer Tools</li>
-          </ol>
+        <td>SheCodes Basics: Lesson One - Workshop Week One Overview, Lesson Two: Your Instructor, Lesson Three: HTML Elements, Lesson Four: HTML Attributes, Lesson Five: Developer Tools
         </td>
         <td>
           <a href="https://www.shecodes.io/">SheCodes Website</td>
       </tr>
       <tr>
         <td>Day Two</td>
-        <td>
-          <ol>
-          <li>Lesson Six: Coding Editor<li>
-          <li>Lesson Seven: Prettier</li> 
-          <li>Lesson Eight: Slack</li>
-          <li>Lesson Nine: CSS Selectors</li> 
-          <li>Lesson Ten: HTML Classes</li> 
-          <li>Lesson Eleven: VS Code Tips</li>
-          </ol>
+        <td>Lesson Six: Coding Editor, Lesson Seven: Prettier, Lesson Eight: Slack, Lesson Nine: CSS Selectors, Lesson Ten: HTML Classes, Lesson Eleven: VS Code Tips
         </td>
         <td></td>
       </tr>
