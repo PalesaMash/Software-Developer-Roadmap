@@ -19,8 +19,18 @@ Software Development is defined as the process of designing, creating, testing, 
       </tr>
       <tr>
         <td>Day One</td>
-        <td>SheCodes Basics: Lesson One - Workshop Week One Overview; Lesson Two - Your Instructor; Lesson Three - HTML Elements; Lesson Four - HTML Attributes; Lesson Five - Developer Tools</td>
-        <td></td>
+        <td>
+          <ol>
+          <li>SheCodes Basics: Lesson One - Workshop Week One Overview</li> 
+          <li>Lesson Two - Your Instructor</li>
+          <li>Lesson Three - HTML Elements</li> 
+          <li>Lesson Four - HTML Attributes</li> 
+          <li>Lesson Five - Developer Tools</li>
+          </ol>
+        </td>
+        <td>
+          <a href="https://www.shecodes.io/">
+        </td>
       </tr>
       <tr>
         <td>Day Two</td>
