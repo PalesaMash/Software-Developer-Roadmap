@@ -13,7 +13,7 @@ Software Development is defined as the process of designing, creating, testing, 
     <h1>Timeline</h1>
     <table>
       <thead>
-        <tr></tr>
+        <tr>
          <td>Day 📆</td>
          <td>Lesson/Task Completed ✍🏾</td>
          <td>Reference Links 🔗</td>
@@ -24,14 +24,12 @@ Software Development is defined as the process of designing, creating, testing, 
         <td>Day One</td>
         <td>SheCodes Basics: Lesson One - Workshop Week One Overview, Lesson Two: Your Instructor, Lesson Three: HTML Elements, Lesson Four: HTML Attributes, Lesson Five: Developer Tools
         </td>
-        <td>
-          <a href="https://www.shecodes.io/">SheCodes Website</td>
+        <td><a href="https://www.shecodes.io/">SheCodes Website</td>
       </tr>
       <tr>
         <td>Day Two</td>
         <td>Lesson Six: Coding Editor, Lesson Seven: Prettier, Lesson Eight: Slack, Lesson Nine: CSS Selectors, Lesson Ten: HTML Classes, Lesson Eleven: VS Code Tips
         </td>
-        <td></td>
       </tr>
       <tr>
         <td>Day Three</td>
