@@ -20,17 +20,28 @@ Software Development is defined as the process of designing, creating, testing, 
       <tr>
         <td>Day One</td>
         <td>SheCodes Basics: Lesson One - Workshop Week One Overview; Lesson Two - Your Instructor; Lesson Three - HTML Elements; Lesson Four - HTML Attributes; Lesson Five - Developer Tools</td>
+        <td></td>
       </tr>
       <tr>
         <td>Day Two</td>
-        <td>Lesson Six - Coding Editor; Lesson Seven - Prettier; Lesson Eight - Slack; Lesson Nine - CSS Selectors; Lesson Ten - HTML Classes; Lesson Eleven - VS Code Tips</td>
+        <td>
+          <ol>
+          <li>Lesson Six - Coding Editor; Lesson Seven - Prettier</li> 
+          <li>Lesson Eight - Slack; Lesson Nine - CSS Selectors</li> 
+          <li>Lesson Ten - HTML Classes</li> 
+          <li>Lesson Eleven - VS Code Tips</li>
+          </ol>
+        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Day Three</td>
         <td>Lesson Twelve - CSS Properties; Lesson Thirteen - CSS Colors; Lesson Fourteen - Color Palettes</td>
+        <td></td>
       </tr>
       <td>Day Four</td>
         <td>Lesson Fifteen - CSS Positioning; Lesson Sixteen; Lesson Seventeen - CSS Borders</td>
+      <td>
       <td>Day Five</td>
         <td>Lesson Eighteen - CSS Pseudo-Selectors; Lesson Nineteen - Default CSS Styling; Lesson Twenty - HTML Container Elements</td>
         <td>Day Six</td>
