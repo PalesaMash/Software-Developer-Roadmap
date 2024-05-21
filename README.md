@@ -58,7 +58,7 @@ Software Development is defined as the process of designing, creating, testing, 
             <li>Lesson Three: JavaScript Variables</li>
             <li>Lesson Four: JavaScript in HTML</li> 
             <li>Lesson Five: JavaScript If Statements</li> 
-            <li>Lesson Six: JavaScript If Else Statementsr</li>
+            <li>Lesson Six: JavaScript If Else Statements</li>
             <li>Lesson Seven: JavaScript Logical Operators</li>
             <li>Lesson Eight: JavaScript Functions</li>
             <li>Lesson Nine: JavaScript Selectors</li>
@@ -71,8 +71,17 @@ Software Development is defined as the process of designing, creating, testing, 
       </tr>
       <tr>
         <td>Week 3</td>
-        <td></td>
-        <td></td>
+        <td>
+          <ol>
+            <li>SheCodes Basics Week Three: Lesson One - Workshop Week Three Overview</li> 
+            <li>Lesson Two: Project - HTML</li>
+            <li>Lesson Three: Project - CSS</li>
+            <li>Lesson Four: Project - JavaScript</li> 
+            <li>Lesson Five: Project - Finishing Touches</li> 
+            <li>Lesson Six: Final Project</li>
+          </ol>
+        </td>
+        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/158/252/original/Coffee_BooksSheCodesProject.html?1711452695"SheCodes Week Three Final Project></td>
       </tr>
       </tr>
           </tbody>
