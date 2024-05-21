@@ -25,7 +25,7 @@ Software Development is defined as the process of designing, creating, testing, 
         <td>
           <ol>
             <li>SheCodes Basics Week One: Lesson One - Workshop Week One Overview</li> 
-            <li>Lesson Two: Your Instructor/li>
+            <li>Lesson Two: Your Instructor</li>
             <li>Lesson Three: HTML Elements</li>
             <li>Lesson Four: HTML Attributes</li> 
             <li>Lesson Five: Developer Tools</li> 
