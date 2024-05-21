@@ -67,7 +67,7 @@ Software Development is defined as the process of designing, creating, testing, 
             <li>Lesson Twelve: Workshop Week Two Summary</li>
           </ol>
         </td>
-        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/154/642/original/WeekTwoSheCodesHomework.html?1711290165">SheCodes Basics Week Two Homework</td>
+        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/154/642/original/WeekTwoSheCodesHomework.html?1711290165">SheCodes Basics Week Two Homework</a></td>
       </tr>
       <tr>
         <td>Week 3</td>
@@ -81,8 +81,7 @@ Software Development is defined as the process of designing, creating, testing, 
             <li>Lesson Six: Final Project</li>
           </ol>
         </td>
-        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/158/252/original/Coffee_BooksSheCodesProject.html?1711452695"SheCodes Week Three Final Project></td>
-      </tr>
+        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/158/252/original/Coffee_BooksSheCodesProject.html?1711452695">SheCodes Week Three Final Project</a></td>
       </tr>
           </tbody>
     </table>
