@@ -25,7 +25,7 @@ Software Development is defined as the process of designing, creating, testing, 
         <td>
           <ol>
             <li>SheCodes Basics Week One: Lesson One - Workshop Week One Overview</li> 
-            <li>Lesson Two: Your Instructor<li>
+            <li>Lesson Two: Your Instructor/li>
             <li>Lesson Three: HTML Elements</li>
             <li>Lesson Four: HTML Attributes</li> 
             <li>Lesson Five: Developer Tools</li> 
@@ -54,7 +54,7 @@ Software Development is defined as the process of designing, creating, testing, 
         <td>
           <ol>
             <li>SheCodes Basics Week Two: Lesson One - Workshop Week Two Overview</li> 
-            <li>Lesson Two: JavaScript in The Browser<li>
+            <li>Lesson Two: JavaScript in The Browser</li>
             <li>Lesson Three: JavaScript Variables</li>
             <li>Lesson Four: JavaScript in HTML</li> 
             <li>Lesson Five: JavaScript If Statements</li> 
@@ -65,6 +65,7 @@ Software Development is defined as the process of designing, creating, testing, 
             <li>Lesson Ten: JavaScript Events</li>
             <li>Lesson Eleven: JavaScript Refactoring</li>
             <li>Lesson Twelve: Workshop Week Two Summary</li>
+          </ol>
         </td>
         <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/154/642/original/WeekTwoSheCodesHomework.html?1711290165">SheCodes Basics Week Two Homework</td>
       </tr>
@@ -73,20 +74,6 @@ Software Development is defined as the process of designing, creating, testing, 
         <td></td>
         <td></td>
       </tr>
-      <tr>
-      <td>Day 5</td>
-        <td></td>
-        <td></td>
-      </tr>
-          <tr>
-        <td>Week Two: Day 6</td>
-        <td>Workshop Week One Summary</td>
-        <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/151/268/original/WeatherAppSheCodes.html?1711119885">SheCodes Basics Week One Homework</a></td>
-          </tr>
-          <tr>
-      <td>Day 7</td>
-        <td>SheCodes Basics Week Two - Lesson One: Workshope Week Two Overview, Lesson Two: Javascriot in the Browser, Lesson Three: Javascript Variables, Lesson Four: Javascript in HTML</td>
-        <td></td>
       </tr>
           </tbody>
     </table>
