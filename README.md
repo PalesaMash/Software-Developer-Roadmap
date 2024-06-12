@@ -25,26 +25,7 @@ Software Development is defined as the process of designing, creating, testing, 
         <td>
           <ol>
             <li>SheCodes Basics Week One: Lesson One - Workshop Week One Overview</li> 
-            <li>Lesson Two: Your Instructor</li>
-            <li>Lesson Three: HTML Elements</li>
-            <li>Lesson Four: HTML Attributes</li> 
-            <li>Lesson Five: Developer Tools</li> 
-            <li>Lesson Six: Coding Editor</li>
-            <li>Lesson Seven: Prettier</li>
-            <li>Lesson Eight: Slack</li>
-            <li>Lesson Nine: CSS Selectors</li>
-            <li>Lesson Ten: HTML Classes</li>
-            <li>Lesson Eleven: VS Code Tips</li>
-            <li>Lesson Twelve: CSS Properties</li>
-            <li>Lesson Thirteen: CSS Colors</li>
-            <li>Lesson Fourteen: Color Palette, 
-            <li>Lesson Fifteen: CSS Positioning</li>
-            <li>Lesson Sixteen: CSS Spacing</li> 
-            <li>Lesson Seventeen: CSS Borders</li> 
-            <li>Lesson Eighteen: CSS Pseudo-Selectors</li> 
-            <li>Lesson Nineteen: Default CSS Styling</li> 
-            <li>Lesson Twenty: HTML Container Elements</li>
-            <li>Lesson Twenty-One: Workshop Week One Summary</li>
+            <li>Lesson Two - Twenty-One: HTML, Developer Tools, Coding Editor, Prettier, Slack, VS Code, CSS</li>
           </ol>
         </td>
         <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/151/268/original/WeatherAppSheCodes.html?1711119885">SheCodes Basics Week One Homework</a></td>
@@ -54,17 +35,7 @@ Software Development is defined as the process of designing, creating, testing, 
         <td>
           <ol>
             <li>SheCodes Basics Week Two: Lesson One - Workshop Week Two Overview</li> 
-            <li>Lesson Two: JavaScript in The Browser</li>
-            <li>Lesson Three: JavaScript Variables</li>
-            <li>Lesson Four: JavaScript in HTML</li> 
-            <li>Lesson Five: JavaScript If Statements</li> 
-            <li>Lesson Six: JavaScript If Else Statements</li>
-            <li>Lesson Seven: JavaScript Logical Operators</li>
-            <li>Lesson Eight: JavaScript Functions</li>
-            <li>Lesson Nine: JavaScript Selectors</li>
-            <li>Lesson Ten: JavaScript Events</li>
-            <li>Lesson Eleven: JavaScript Refactoring</li>
-            <li>Lesson Twelve: Workshop Week Two Summary</li>
+            <li>Lesson Two - Eleven: JavaScript</li>
           </ol>
         </td>
         <td><a href="https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/154/642/original/WeekTwoSheCodesHomework.html?1711290165">SheCodes Basics Week Two Homework</a></td>
